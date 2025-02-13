@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dz na zavtra/1.0.0": {
+        "runtime": {
+          "dz na zavtra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dz na zavtra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

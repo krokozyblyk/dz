@@ -1,0 +1,14 @@
+C:\pract\paramC#\dz na zavtra\bin\Debug\net8.0\dz na zavtra.exe
+C:\pract\paramC#\dz na zavtra\bin\Debug\net8.0\dz na zavtra.deps.json
+C:\pract\paramC#\dz na zavtra\bin\Debug\net8.0\dz na zavtra.runtimeconfig.json
+C:\pract\paramC#\dz na zavtra\bin\Debug\net8.0\dz na zavtra.dll
+C:\pract\paramC#\dz na zavtra\bin\Debug\net8.0\dz na zavtra.pdb
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.AssemblyInfoInputs.cache
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.AssemblyInfo.cs
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.csproj.CoreCompileInputs.cache
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.dll
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\refint\dz na zavtra.dll
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.pdb
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\dz na zavtra.genruntimeconfig.cache
+C:\pract\paramC#\dz na zavtra\obj\Debug\net8.0\ref\dz na zavtra.dll
